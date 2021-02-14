@@ -1,0 +1,91 @@
+@import url("https://use.typekit.net/ipm0wms.css");
+
+.fullContainer {
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.character {
+  width: 40vh;
+  height: 40vh;
+  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+
+.characterDiv {
+  justify-content: center;
+}
+
+.text {
+  text-align: center;
+  font-size: 5vh !important;
+}
+
+.text2 {
+  text-align: center;
+  font-size: 3vh !important;
+  font-family: europa, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.imageSplash {
+    background-color: #8170ec;
+    margin-top: 15vh;
+}
+
+.imageSplashSrc {
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35vh;
+    margin-bottom: -0.1vh;
+    margin-top: 10vh;
+}
+
+.imageSplashText {
+    color: white;
+    padding-top: 20vh;
+    text-align: center;
+    font-size: 4vh !important;
+    font-family: europa, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.imageSplashText2 {
+    color: white;
+    padding-top: 1vh;
+    text-align: center;
+    font-size: 2.5vh !important;
+    font-family: europa, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+
+@media (max-width: 991px) {
+    .imageSplashText2{
+        padding-left: 5vh;
+        padding-right: 5vh;
+    }
+}
+
+@media (max-width: 791px) {
+    .imageSplashSrc {
+        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 20vh;
+        margin-bottom: -0.1vh;
+        margin-top: 10vh;
+    }
+}
