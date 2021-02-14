@@ -1,0 +1,62 @@
+@import url("https://use.typekit.net/ipm0wms.css");
+
+.cardContainer {
+    margin-top: 8vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    padding-bottom: 10vh;
+}
+
+@media (max-width: 791px) {
+    .cardContainer{
+        margin-top: 8vh;
+        margin-left: 10vh;
+        margin-right: 10vh;
+        padding-bottom: 10vh;
+    }
+}
+
+
+.cardImage {
+    height: 7vh;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+}
+
+.textHeader {
+    font-family: europa, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3vh;
+    text-align: center;
+}
+
+.bodyHeader {
+    font-family: europa, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2vh;
+    text-align: center;
+}
+
+.tools {
+    font-family: europa, sans-serif;
+    color: #8170ec;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 3vh;
+    text-align: center;
+    margin-top: 6vh;
+}
+
+.toolsList {
+    font-family: europa, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2vh;
+    text-align: center;
+}
