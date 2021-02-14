@@ -1,9 +1,14 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'
+
+import Navigation from './components/Navigation.jsx'
 
 function App() {
     return (
-      <h1>tesdsadsat</h1>
+        <div>
+            <Navigation />
+        </div>
     );
-  }
-  
-  export default App;
+}
+
+export default App;
