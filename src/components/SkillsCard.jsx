@@ -19,7 +19,7 @@ const SkillCard = () => {
                 into <strong>reality.</strong> Writing clean efficent code and
                 keeping up to date with the latest technology in every project.</p>
                 <p className="tools">Languages</p>
-                <p className="toolsList">Javascript,HTML,CSS,C/C++, Java</p>
+                <p className="toolsList">Javascript,HTML,CSS,C,C++, Java</p>
                 <p className="tools">Frameworks/Tech</p>
                 <p className="toolsList">React.js</p>
                 <p className="toolsList">Node/Express.js</p>

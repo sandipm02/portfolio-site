@@ -80,13 +80,16 @@ a {
     transition: all 0.3s ease 0s;
 }
 
-.assetImage:hover{
-    margin: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 33vh;
-    transition: all 0.3s ease 0s;
+
+@media (min-width: 500px) {
+    .assetImage:hover{
+        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 33vh;
+        transition: all 0.3s ease 0s;
+    }
 }
 
   .entireRow {
