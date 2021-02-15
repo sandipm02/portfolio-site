@@ -35,7 +35,7 @@ const LandingView = () => {
                 sketching my favourite characters for hours on end. As I got older my interests began to diversify, into 
                 <strong> game creation</strong>, <strong>web design</strong> and <strong>graphic art</strong>. The journey along the way, in each and every project. Discovering 
                 new techniques, skills, shortcuts and <i>messing up a whole lot</i>. I love the whole experience. I am <strong>confident</strong>, <strong>outgoing </strong>
-                and naturally <strong>curious</strong>, which means any undertaken no matter the scale peaks my interest. To date, I've designed
+                and naturally <strong>curious</strong>, which means any undertaking no matter the scale peaks my interest. To date, I've designed
                 for <strong>multiple companies</strong>, collaborated with <strong>brilliant and talented minds</strong>, and <strong>learned</strong> something <strong>new</strong> each and everyday.
               </p>
               <img className="imageSplashSrc" src={imagesplash}></img>

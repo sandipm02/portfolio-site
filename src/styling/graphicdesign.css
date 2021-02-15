@@ -1,5 +1,95 @@
 @import url("https://use.typekit.net/ipm0wms.css");
 
 .graphicDesignBlock {
-    margin-top: 10vh;
+  margin-top: 5vh;
 }
+
+.graphicDesignSecond {
+  margin-top: 10vh;
+}
+
+.titleText {
+  text-align: center;
+  font-size: 5vh !important;
+  font-family: europa, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.imageBlock2 {
+  margin-top: 5vh;
+  justify-content: center;
+  margin-bottom: 10vh;
+}
+
+.assetStyle {
+  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30vh;
+  margin-bottom: -0.1vh;
+}
+
+.imageBlock {
+  margin-left: 4vh;
+  margin-right: 4vh;
+}
+
+.individualImage {
+  margin-bottom: 4vh;
+  margin-top: 4vh;
+}
+
+.buttonStyling2 {
+  color: hsl(248, 77%, 68%) !important;
+  font-size: 3vh;
+  background: #ffffff;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 2px solid #8170ec !important;
+  border-radius: 50px;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+}
+
+.buttonStyling2:hover {
+  font-size: 3.5vh;
+  background-color: #8170ec;
+  color: white !important;
+  border-radius: 50px;
+  border-color: #8170ec !important;
+  transition: all 0.3s ease 0s;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.debug {
+    background-color: white;
+}
+
+.assetImage {
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30vh;
+    transition: all 0.3s ease 0s;
+}
+
+.assetImage:hover{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 33vh;
+    transition: all 0.3s ease 0s;
+}
+
+  .entireRow {
+      margin-top: 5vh;
+
+  }
