@@ -1,0 +1,28 @@
+@import url("https://use.typekit.net/ipm0wms.css");
+
+.footerContent{
+    background-color: #8170ec;
+    margin-top: 10vh;
+    padding-bottom: 8vh;
+    padding-top: 10vh;
+}
+
+.footerText{
+    text-align: center;
+    line-height: 0.7vh;
+    color: white;
+    font-size: 2vh !important;
+    font-family: europa, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.footerText2{
+    text-align: center;
+    line-height: 0.7vh;
+    color: white;
+    font-size: 1.5vh !important;
+    font-family: europa, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}

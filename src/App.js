@@ -5,6 +5,7 @@ import Navigation from './components/Navigation.jsx'
 import LandingView from './components/LandingView.jsx'
 import SkillCard from './components/SkillsCard.jsx'
 import GraphicDesign from './components/GraphicDesign.jsx'
+import FooterContent from './components/FooterContent.jsx'
 
 function App() {
     return (
@@ -13,6 +14,7 @@ function App() {
             <LandingView/>
             <SkillCard/>
             <GraphicDesign/>
+            <FooterContent/>
         </div>
     );
 }
